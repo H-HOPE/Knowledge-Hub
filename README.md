@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 <img src="/images/Logo_istituzionale.png" alt="drawing" width="250"/>
 </div>
 
