@@ -4,6 +4,8 @@
 
 # Knowledge-Hub
 
+- **YouTube** - https://www.youtube.com/@h-hope
+
 
 - **H-HOPE current meter** - Instructions on how to build the H-HOPE current meter.
 - **3D printitng** - Instructions on how to use Prusa 3D printer.
