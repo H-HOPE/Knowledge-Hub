@@ -3,10 +3,8 @@
 </div>
 
 # H-HOPE Knowledge-Hub
-
-- **H-HOPE YouTube channel** - https://www.youtube.com/@h-hope
-
-
+- <a href="https://h-hope.eu/"> **H-HOPE webpage**</a>
+- <a href="https://www.youtube.com/@h-hope">  **H-HOPE YouTube channel** </a>
 - <a href="https://github.com/H-HOPE/H-HOPE-current-meter">**H-HOPE current meter**</a> - Instructions on how to build the H-HOPE current meter.
 - **3D printitng** - Instructions on how to use Prusa 3D printer.
 - **H-HOPE harvester generator** - Instructions on how to build the H-HOPE generator.
