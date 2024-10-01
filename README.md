@@ -2,9 +2,9 @@
 <img src="/images/Logo_istituzionale.png" alt="drawing" width="250"/>
 </div>
 
-# Knowledge-Hub
+# H-HOPE Knowledge-Hub
 
-- **YouTube** - https://www.youtube.com/@h-hope
+- **H-HOPE YouTube channel** - https://www.youtube.com/@h-hope
 
 
 - **H-HOPE current meter** - Instructions on how to build the H-HOPE current meter.
