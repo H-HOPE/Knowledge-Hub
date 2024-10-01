@@ -7,7 +7,7 @@
 - **H-HOPE YouTube channel** - https://www.youtube.com/@h-hope
 
 
-- **H-HOPE current meter** - Instructions on how to build the H-HOPE current meter.
+- <a href="https://github.com/H-HOPE/H-HOPE-current-meter">**H-HOPE current meter**</a> - Instructions on how to build the H-HOPE current meter.
 - **3D printitng** - Instructions on how to use Prusa 3D printer.
 - **H-HOPE harvester generator** - Instructions on how to build the H-HOPE generator.
 - **H-HOPE harvester AC to DC rectifier** - Instructions on how to build the H-HOPE AC to DC rectifier.
