@@ -7,11 +7,10 @@
 - <a href="https://www.youtube.com/@h-hope">  **H-HOPE YouTube channel** </a>
 - <a href="https://github.com/H-HOPE/H-HOPE-current-meter">**H-HOPE current meter**</a> - Instructions on how to build the H-HOPE current meter.
 - **3D printitng** - Instructions on how to use Prusa 3D printer.
-- **H-HOPE harvester generator** - Instructions on how to build the H-HOPE generator.
-- **H-HOPE harvester AC to DC rectifier** - Instructions on how to build the H-HOPE AC to DC rectifier.
-- **H-HOPE harvester battery charger electronics** - Instructions on how to build the H-HOPE battery charger electronics.
+- **H-Hope Harvester Mechanical Design:** Manufacture of the H-Hope harvester mechanical components.
+- **H-Hope Harvester Electrical Design:** Manufacture of the H-Hope harvester electrical components.
+- **H-Hope Harvester Electronics Design:** Manufacture of the H-Hope electronics, enabling the generated electric energy to be stored for instance in a battery.
 - **Turbine applications** - Overview of different types of turbines: Pelton, Francis, Kaplan, tube/bulb and other kinds of turbines.
-- **3D printed Banki turbine** - Instructions on how to build the 3D printed Banki turbine.
 
 &nbsp;
 &nbsp;
