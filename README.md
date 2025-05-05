@@ -2,15 +2,14 @@
 <img src="/images/Logo_istituzionale.png" alt="drawing" width="250"/>
 </div>
 
-# H-HOPE Knowledge-Hub
-- <a href="https://h-hope.eu/"> **H-HOPE webpage**</a>
-- <a href="https://www.youtube.com/@h-hope">  **H-HOPE YouTube channel** </a>
-- <a href="https://github.com/H-HOPE/H-HOPE-current-meter">**H-HOPE current meter**</a> - Instructions on how to build the H-HOPE current meter.
-- **3D printitng** - Instructions on how to use Prusa 3D printer.
-- **H-Hope Harvester Mechanical Design:** Manufacture of the H-Hope harvester mechanical components.
-- **H-Hope Harvester Electrical Design:** Manufacture of the H-Hope harvester electrical components.
-- **H-Hope Harvester Electronics Design:** Manufacture of the H-Hope electronics, enabling the generated electric energy to be stored for instance in a battery.
-- **Turbine applications** - Overview of different types of turbines: Pelton, Francis, Kaplan, tube/bulb and other kinds of turbines.
+# H-Hope Knowledge-Hub
+- <a href="https://h-hope.eu/"> **H-Hope webpage**</a>
+- <a href="https://www.youtube.com/@h-hope">  **H-Hope YouTube channel** </a>
+- <a href="https://github.com/H-HOPE/Online-Calculator-and-Assesment-tool"> **H-Hope online assessment tool** </a>
+- <a href="https://github.com/H-HOPE/Knowledge-Hub"> **H-Hope DIY energy harvester mechanical design**  </a> - Manufacture of the H-Hope harvester mechanical components.
+- <a href="https://github.com/H-HOPE/Knowledge-Hub"> **H-Hope energy harvester induction generator design:** </a> - Manufacture of the H-Hope harvester induction generator.
+- <a href="https://github.com/H-HOPE/Knowledge-Hub"> **H-Hope energy harvester electronic design:** </a> - Manufacture of the H-Hope electronics.
+- <a href="https://github.com/H-HOPE/Knowledge-Hub"> **Rotating turbine machinery** </a> - Overview of different types of turbines: Pelton, Francis, Kaplan, tube/bulb and other kinds of turbines.
 
 &nbsp;
 &nbsp;
