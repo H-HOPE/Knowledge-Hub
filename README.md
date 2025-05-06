@@ -4,19 +4,19 @@
 
 # H-Hope Knowledge-Hub
 - <a href="https://h-hope.eu/"> **H-Hope webpage**</a>
-- <a href="https://www.youtube.com/@h-hope">  **H-Hope YouTube channel** </a>
-- <a href="https://github.com/H-HOPE/Online-Calculator-and-Assesment-tool"> **H-Hope online assessment tool** </a>
-- <a href="https://github.com/H-HOPE/DIY-energy-harvester-mechanical-design"> **H-Hope DIY energy harvester mechanical design**  </a> - Manufacture of the H-Hope harvester mechanical components.
-- <a href="https://github.com/H-HOPE/DIY-energy-harvester-induction-generator-design"> **H-Hope energy harvester induction generator design** </a> - Manufacture of the H-Hope harvester induction generator.
-- <a href="https://github.com/H-HOPE/DIY-energy-harvester-electronic-design"> **H-Hope energy harvester electronic design** </a> - Manufacture of the H-Hope electronics.
-- <a href="https://github.com/H-HOPE/Rotating-turbine-machinery"> **Rotating turbine machinery** </a> - Overview of different types of turbines: Pelton, Francis, Kaplan, tube/bulb and other kinds of turbines.
+- <a href="https://www.youtube.com/@h-hope">  **H-Hope YouTube channel**</a>
+- <a href="https://github.com/H-HOPE/Online-Calculator-and-Assesment-tool"> **H-Hope online assessment tool**</a>
+- <a href="https://github.com/H-HOPE/DIY-energy-harvester-mechanical-design"> **H-Hope DIY energy harvester mechanical design**</a> - Manufacture of the H-Hope harvester mechanical components.
+- <a href="https://github.com/H-HOPE/DIY-energy-harvester-induction-generator-design"> **H-Hope energy harvester induction generator design**</a> - Manufacture of the H-Hope harvester induction generator.
+- <a href="https://github.com/H-HOPE/DIY-energy-harvester-electronic-design"> **H-Hope energy harvester electronic design**</a> - Manufacture of the H-Hope electronics.
+- <a href="https://github.com/H-HOPE/Rotating-turbine-machinery"> **Rotating turbine machinery**</a> - Overview of different types of turbines: Pelton, Francis, Kaplan, tube/bulb and other kinds of turbines.
 
 &nbsp;
 &nbsp;
 ## **Hydro- and aero-elastic phenomena**
 Hydro- and aero-elastic phenomena are critical in the design and operation of aircraft, bridges, tall buildings, energy harvesters, and other flexible structures exposed to hydro- and aero-dynamic forces. Among these, flutter, buffeting, and vortex shedding are three distinct but interrelated dynamic responses that arise from fluid-structure interactions. Understanding the mechanisms behind each, their similarities, differences, and implications for structural integrity and control is vital for engineers and scientists working in aerospace, civil, and mechanical disciplines. This section provides a brief overview of each phenomenon, explains the conditions under which they occur, and presents a comparative analysis highlighting their interactions and implications.
 
-### **3.1.1 Hydro and aero-elastic instabilities**
+### **Hydro and aero-elastic instabilities**
 
 **Flutter** is a hydro- or aero-elastic instability that occurs when the energy from aerodynamic forces is fed into a structure's natural mode of vibration, leading to potentially destructive oscillations. It is a dynamic instability that typically manifests as a self-excited vibration in flexible structures, such as aircraft wings or bridge decks.
 
