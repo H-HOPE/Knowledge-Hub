@@ -8,11 +8,11 @@
 - <a href="https://github.com/H-HOPE/Online-Calculator-and-Assesment-tool"> **H-Hope online assessment tool**</a>
 - <a href="https://github.com/H-HOPE/H-Hope-DIY-Energy-Harvester-Mechanical-Design"> **H-Hope DIY energy harvester mechanical design**</a> - Manufacture of the H-Hope harvester mechanical components.
 - <a href="https://github.com/H-HOPE/H-HOPE-H-Hope-energy-harvester-induction-generator-design"> **H-Hope energy harvester induction generator design**</a> - Manufacture of the H-Hope harvester induction generator.
-- <a href="https://github.com/H-HOPE/H-Hope-energy-harvester-electronic-design"> **H-Hope energy harvester electronic design**</a> - Manufacture of the H-Hope electronics.
+- <a href="https://github.com/H-HOPE/H-Hope-energy-harvester-electronic-design"> **H-Hope energy harvester power electronic design**</a> - Manufacture of the H-Hope power electronics.
 - <a href="https://github.com/H-HOPE/Rotating_turbine_machinery"> **Rotating turbine machinery**</a>
 &nbsp;
 &nbsp;
-## **Hydro- and aero-elastic phenomena**
+## **Hydro and aero-elastic phenomena**
 Hydro- and aero-elastic phenomena are critical in the design and operation of aircraft, bridges, tall buildings, energy harvesters, and other flexible structures exposed to hydro- and aero-dynamic forces. Among these, flutter, buffeting, and vortex shedding are three distinct but interrelated dynamic responses that arise from fluid-structure interactions. Understanding the mechanisms behind each, their similarities, differences, and implications for structural integrity and control is vital for engineers and scientists working in aerospace, civil, and mechanical disciplines. This section provides a brief overview of each phenomenon, explains the conditions under which they occur, and presents a comparative analysis highlighting their interactions and implications.
 
 ### **Hydro and aero-elastic instabilities**
